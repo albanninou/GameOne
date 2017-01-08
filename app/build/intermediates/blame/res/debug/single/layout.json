@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Jeune\\Desktop\\Cle Usb\\Cour\\Informatique\\Android\\GameOne\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Jeune\\Desktop\\Cle Usb\\Cour\\Informatique\\Android\\GameOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Jeune\\Desktop\\Cle Usb\\Cour\\Informatique\\Android\\GameOne\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "C:\\Users\\Jeune\\Desktop\\Cle Usb\\Cour\\Informatique\\Android\\GameOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Jeune\\Desktop\\Cle Usb\\Cour\\Informatique\\Android\\GameOne\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jeune\\Desktop\\Cle Usb\\Cour\\Informatique\\Android\\GameOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Jeune\\Desktop\\Cle Usb\\Cour\\Informatique\\Android\\GameOne\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "C:\\Users\\Jeune\\Desktop\\Cle Usb\\Cour\\Informatique\\Android\\GameOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
